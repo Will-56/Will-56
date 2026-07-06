@@ -1,7 +1,8 @@
 ## Hi there 👋
+🔭I’m currently a Junior at Ohio university working towards a bachelors in Computer Science, and a bachelors in Artificial Intelligence
 
- 🔭 I’m currently working on my degree from Ohio University in Computer Science
-
-Currently learning python, cyber security, web development
+Currently learning Networking and Cyber Security
 
 
+
+Languages: C++, Python, HTML, SQL
